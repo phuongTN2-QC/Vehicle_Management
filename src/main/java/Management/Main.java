@@ -7,8 +7,7 @@ public class Main {
     public static void main(String[] args) {
         Management newManagement = new Management();
         newManagement.chooseOptions();
-       /* newManagement.bikeInput();
-        newManagement.carInput();
+        /*newManagement.carInput();
         newManagement.truckInput();;
         newManagement.bikeOutput();
         newManagement.carOutput();
